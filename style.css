@@ -1,0 +1,23 @@
+body {background-color: lightblue;
+    }
+    .parte1 { text-align: center;
+           font-size: 150%;
+         color:rgb(243, 0, 0);
+    }
+
+    .parte1 {border-color: rgb(83, 143, 212);
+             border-style: outset;
+             border-width: 5px;
+            margin-left: 11%;
+        margin-right: 10%;
+    }
+
+    #ima1 {width: 60%;
+    
+    } 
+    .parte2 {
+     background-color: burlywood;
+     border-style: solid;
+     border-color: rgb(2, 1, 1);
+    
+    }
